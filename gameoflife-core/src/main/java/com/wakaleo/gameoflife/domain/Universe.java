@@ -1,3 +1,5 @@
+//Added Comment
+
 package com.wakaleo.gameoflife.domain;
 
 import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
