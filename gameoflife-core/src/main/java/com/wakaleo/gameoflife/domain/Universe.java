@@ -1,4 +1,4 @@
-//Added Comment
+// Added Comment
 
 package com.wakaleo.gameoflife.domain;
 
