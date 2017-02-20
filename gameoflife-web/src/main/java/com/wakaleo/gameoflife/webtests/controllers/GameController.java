@@ -1,5 +1,5 @@
 // added comments
-?????????package com.wakaleo.gameoflife.webtests.controllers;
+package com.wakaleo.gameoflife.webtests.controllers;
 
 import java.util.Random;
 
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.wakaleo.gameoflife.domain.Universe;
 
-???????@Controller
+@Controller
 @RequestMapping("/game")
 public class GameController {
 
