@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.wakaleo.gameoflife.domain.Universe;
 
-@Controller
+???????@Controller
 @RequestMapping("/game")
 public class GameController {
 
